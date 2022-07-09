@@ -1,4 +1,5 @@
 # Dimentionality reduction framework with autoencoders for mineral exploration 
+## Paper: An unsupervised machine learning framework based on dimensional reduction  and clustering methods for lithological mapping via remote sensing.
 
 # deeplearning_lithology-
 Detecting region lithology using deep learning and remote sensing
