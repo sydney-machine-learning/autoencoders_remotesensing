@@ -1,10 +1,10 @@
-# Dimentionality reduction framework with autoencoders for mineral exploration 
+# Dimentionality reduction framework with autoencoders and clustering for mineral exploration 
 ## Paper: An unsupervised machine learning framework based on dimensional reduction  and clustering methods for lithological mapping via remote sensing.
 
-# deeplearning_lithology-
+
 Detecting region lithology using deep learning and remote sensing
 
-#
+## Using autoencoder and k-means clustring algorithm.
 run file for each dataset: run files/
 
     `ae_litho_mapping_ver_01_for_landsat8.ipynb, .py`
@@ -14,13 +14,7 @@ run file for each dataset: run files/
     `ae_lithomapping_ver_01_for_sentinel2.ipynb, .py`
     
     
-Using autoencoder and k-means clustring algorithm.
 
-## run experiments
-
-    ae_k_mean_geochem_ver_04.py    # python file
-    AE_K_Mean_GeoChem_ver_04.ipynb # Notebook
-  
 
 
 ## Papers:
