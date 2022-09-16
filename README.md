@@ -4,6 +4,11 @@
 
 The notebooks provide the results of applying the k-means clustering method to three different dimensionality-reduced remote sensing datasets. Dimensionality reduction methods used in this study include principal components analysis, canonical autoencoder, and stacked autoencoder and remote sensing datasets include Landsat 8, ASTER, and Sentinel-2.
 
+
+## datasets
+
+  Multi spectoral images (MSI) with 10 bands.
+
 ## Flow model
 
 Step-1
