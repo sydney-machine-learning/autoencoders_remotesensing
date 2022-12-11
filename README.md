@@ -1,36 +1,6 @@
-# Stacked autoencoder and clustering framework for lithological mapping via remote sensing.
+# Stacked Autoencoders for Lithological Mapping
 
-### Repository created for the paper entitled "Stacked autoencoder and clustering framework for lithological mapping via remote sensing" [link to pre-print](https//:)
+This repository provides supplementary materials for the paper entitled 'Remote sensing framework for lithological mapping via stacked autoencoders and clustering'. This paper proposes a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps. This framework is applied to three different data types, including Landsat 8, ASTER, and Sentinel-2, and the results can be found in the notebooks called 'Autoencoder_Landsat8', 'Autoencoder_ASTER', and 'Autoencoder_Sentinel2'.
 
-The notebooks provide the results of applying the k-means clustering method to three different dimensionality-reduced remote sensing datasets. Dimensionality reduction methods used in this study include principal components analysis, canonical autoencoder, and stacked autoencoder and remote sensing datasets include Landsat 8, ASTER, and Sentinel-2.
-
-
-## datasets
-
-  Multi spectoral images (MSI) with 10 bands.
-
-## Flow model
-
-Step-1
-
-  `Data aquesition (MSI)`
-  
-Step-2
-
- `1MSI pre-processing`
-
-Step-3
-
-`Dimension/ bands reduction using PCA, Canonical-AE, and Stacked-AE`
-
-Step-4
-
-  `pixels classification: clustring using k-means`
-
-Step-5
-
-`Majority filtring`
-
-Step-6
-
-`Finally Lithological Maps`
+### References
+Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]
