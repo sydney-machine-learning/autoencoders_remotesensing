@@ -1,36 +1,8 @@
-# Dimentionality reduction framework with autoencoders and clustering for mineral exploration 
-## Paper: An unsupervised machine learning framework based on dimensional reduction  and clustering methods for lithological mapping via remote sensing.
+# Stacked Autoencoders for Lithological Mapping
 
+[![DOI](https://zenodo.org/badge/512082635.svg)](https://zenodo.org/badge/latestdoi/512082635)
 
-Detecting region lithology using deep learning and remote sensing
+This repository provides supplementary materials for the paper entitled 'Remote sensing framework for lithological mapping via stacked autoencoders and clustering'. This paper proposes a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps. This framework is applied to three different data types, including Landsat 8, ASTER, and Sentinel-2, and the results can be found in the notebooks called 'Autoencoder_Landsat8', 'Autoencoder_ASTER', and 'Autoencoder_Sentinel2'.
 
-## Using autoencoder and k-means clustring algorithm.
-run file for each dataset: run files/
-
-    `ae_litho_mapping_ver_01_for_landsat8.ipynb, .py`
-    
-    `ae_lithomapping_ver_01_for_aster.ipynb, .py`
-    
-    `ae_lithomapping_ver_01_for_sentinel2.ipynb, .py`
-    
-    
-
-
-
-## Papers:
-
-1. **Deep Feature Consistent Variational Autoencoder**
-
-2. WAE
-3. Auto-Encoding Variational Bayes 
-4. Multispectral Image Reconstruction From Color Images Using Enhanced Variational Autoencoder and Generative Adversarial Network
-5. CVA2E: A Conditional Variational Autoencoder With an Adversarial Training Process for Hyperspectral Imagery Classification
-6. **Self-Attention-Based Conditional Variational Auto-Encoder Generative Adversarial Networks for Hyperspectral Classification** 
-
-[](https://www.mdpi.com/2072-4292/13/16/3316/htm)
-
-  7.  **Variational Generative Adversarial Network with Crossed Spatial and Spectral Interactions for Hyperspectral Image Classification**
-
-1. Multispectral Image Reconstruction From Color Images Using Enhanced Variational Autoencoder and Generative Adversarial Network
-
-
+### References
+Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]
