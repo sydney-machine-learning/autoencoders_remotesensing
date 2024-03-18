@@ -9,9 +9,14 @@ This paper proposes a framework based on different dimensionality reduction meth
 ## Dataset
 This framework is applied to three different data types, including 
 
-    1. Landsat-8
-    2. ASTER
-    3. Sentinel-2
+1. Landsat-8 
+[download here](https://www.usgs.gov/landsat-missions/landsat-data-access)
+
+2. ASTER
+[download here](https://asterweb.jpl.nasa.gov/)
+3. Sentinel-2
+[download here](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
+   
 ## proposed method
 ![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/bbcd7578-679d-4c26-bd0d-39b65208ca2a)
 
