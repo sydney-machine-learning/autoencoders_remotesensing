@@ -20,6 +20,7 @@ This framework is applied to three different data types, including
     Autoencoder_Landsat8.ipynb 
     Autoencoder_ASTER.ipynb
     Autoencoder_Sentinel2.ipynb
+![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/098d427f-8872-480e-bd67-16e990181af1)
 
 ### References
 Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]
