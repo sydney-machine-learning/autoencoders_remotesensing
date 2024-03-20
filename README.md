@@ -7,7 +7,7 @@ This repository provides code and supplementary materials for the paper entitled
 This paper proposes a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps.
 
 ## Dataset
-This framework is applied to three different data types, including are in `/datasets/main_dataset.zip` folder or can be download from the source attached below.
+This framework is applied to three different data types, including are in `/datasets/main_dataset/*.zip` folder or can be download from the source attached below.
 A small dataset also included in the `datasets/sample_dataset.zip` folder.
 
 1. Landsat-8 
