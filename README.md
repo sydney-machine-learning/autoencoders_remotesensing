@@ -55,7 +55,7 @@ A small dataset also included in the `datasets/sample_dataset.zip` folder.
 
 ## License
 
-Copyright &copy; 2024, Sydney Machine Learning& AFFILIATES. All rights reserved.
+Copyright &copy; 2024,Transitional Artificial Intelligence Research Group & AFFILIATES. All rights reserved.
 
 All material, including source code and pre-trained models, is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
