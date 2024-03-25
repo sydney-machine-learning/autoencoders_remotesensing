@@ -20,7 +20,7 @@ A small dataset also included in the `datasets/sample_dataset.zip` folder.
 4. Sentinel-2
 [download here](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
 
-##  Scripts for each dataset 
+##  Notebooks for each dataset: main run code.
 
    `Autoencoder_Landsat8.ipynb` 
    
