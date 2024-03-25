@@ -19,18 +19,23 @@ A small dataset also included in the `datasets/sample_dataset.zip` folder.
 
 4. Sentinel-2
 [download here](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
-   
-## proposed method
-![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/bbcd7578-679d-4c26-bd0d-39b65208ca2a)
 
 ##  Scripts for each dataset 
 
-`Autoencoder_Landsat8.ipynb` 
-`Autoencoder_ASTER.ipynb`
-`Autoencoder_Sentinel2.ipynb`
+   `Autoencoder_Landsat8.ipynb` 
+   
+   `Autoencoder_ASTER.ipynb`
+
+   `Autoencoder_Sentinel2.ipynb`
 
 
-![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/098d427f-8872-480e-bd67-16e990181af1)
+## Proposed method: flow overview.
+<!--- ![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/bbcd7578-679d-4c26-bd0d-39b65208ca2a)  align="right"  --->
+<img src='https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/bbcd7578-679d-4c26-bd0d-39b65208ca2a' width='700'  >
+
+## Results Elbow plot for each dataset and methods.
+<!--- ![image](https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/098d427f-8872-480e-bd67-16e990181af1) --->
+<img src='https://github.com/sydney-machine-learning/autoencoders_remotesensing/assets/14858627/098d427f-8872-480e-bd67-16e990181af1' width ='700'>
 
 ### References
 `Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]`
