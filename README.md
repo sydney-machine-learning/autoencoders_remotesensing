@@ -32,7 +32,7 @@ A small dataset also included in the `datasets/sample_dataset.zip` folder.
 [download here](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
 
 
-## Full datase: 
+## Full dataset: 
 [download here](https://www.dropbox.com/scl/fo/0k3d0pooovlsj97ztocb0/h?rlkey=colw5u0hc5tsnlt6ywolvo9i3&dl=0) 
 
 ##  Notebooks for each dataset: main run code.
