@@ -2,13 +2,9 @@
 
 # Remote sensing stacked autoencoder and clustering framework for geological mapping
 
-**Remote sensing framework for Geological mapping via Stacked Autoencoders (SAE) and Clustering**<br>
-Sandeep Nagar, Ehsan Farahbakhsh, Joseph Awange, and Rohitash Chandrad<br>
-
-Abstract: This paper proposes a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps.
-
 
 This repository provides code and supplementary materials for the paper entitled 'Remote sensing framework for lithological mapping via stacked autoencoders and clustering'. 
+We present a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps.
 
 ## Requirements
 
