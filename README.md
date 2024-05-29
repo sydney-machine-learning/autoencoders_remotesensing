@@ -57,4 +57,14 @@ Copyright &copy; 2024,Transitional Artificial Intelligence Research Group & AFFI
 All material, including source code and pre-trained models, is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### References
+
+
+      @article{nagar2024remote,
+        title={Remote sensing framework for geological mapping via stacked autoencoders and clustering},
+        author={Nagar, Sandeep and Farahbakhsh, Ehsan and Awange, Joseph and Chandra, Rohitash},
+        journal={arXiv preprint arXiv:2404.02180},
+        year={2024}
+      }
+
+
 `Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]`
