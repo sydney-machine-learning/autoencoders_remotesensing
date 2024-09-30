@@ -1,12 +1,15 @@
 [![DOI](https://zenodo.org/badge/512082635.svg)](https://zenodo.org/badge/latestdoi/512082635)
 
-# Remote sensing stacked autoencoder and clustering framework for geological mapping
-
+# Remote Sensing Stacked Autoencoder and Clustering framework for Geological Mapping
+## Accepted: Advances in Space Research
 
 This repository provides code and supplementary materials for the paper entitled 'Remote sensing framework for lithological mapping via stacked autoencoders and clustering'. 
 We present a framework based on different dimensionality reduction methods, including principal component analysis, canonical autoencoders, stacked autoencoders, and the k-means clustering algorithm to generate clustered maps using multispectral remote sensing data which are interpreted as lithological maps.
 
-## Requirements
+### Abstract: 
+Supervised machine learning methods for geological mapping via remote sensing face limitations due to the scarcity of accurately labelled training data that can be addressed by unsupervised learning, such as dimensionality reduction and clustering. Dimensionality reduction methods have the potential to play a crucial role in improving the accuracy of geological maps. Although conventional dimensionality reduction methods may struggle with nonlinear data, unsupervised deep learning models such as autoencoders can model non-linear relationships. Stacked autoencoders feature multiple interconnected layers to capture hierarchical data representations useful for remote sensing data. This study presents an unsupervised machine learning-based framework for processing remote sensing data using stacked autoencoders for dimensionality reduction and k-means clustering for mapping geological units. We use Landsat 8, ASTER, and Sentinel-2 datasets to evaluate the framework for geological mapping of the Mutawintji region in Western New South Wales, Australia. We also compare stacked autoencoders with principal component analysis and canonical autoencoders. Our results reveal that the framework produces accurate and interpretable geological maps, efficiently discriminating rock units. We find that the accuracy of stacked autoencoders ranges from 86.6% to 90%, depending on the remote sensing data type, which is superior to their counterparts. We also find that the generated maps align with prior geological knowledge of the study area while providing novel insights into geological structures.
+
+## Code Requirements
 
 * Linux and Windows are supported, but we recommend Linux for performance and compatibility reasons.
 * 1+ high-end NVIDIA GPU for sampling and 1+ GPUs for training.
@@ -39,7 +42,7 @@ A small dataset also included in the `datasets/sample_dataset.zip` folder.
    
    `Autoencoder_ASTER.ipynb`
 
-   `Autoencoder_Sentinel2.ipynb`
+   `Autoencoder_Sentinel2.ipynb`   
 
 
 ## Proposed method: flow overview.
@@ -59,12 +62,22 @@ All material, including source code and pre-trained models, is licensed under th
 ### References
 
 
-      @article{nagar2024remote,
-        title={Remote sensing framework for geological mapping via stacked autoencoders and clustering},
-        author={Nagar, Sandeep and Farahbakhsh, Ehsan and Awange, Joseph and Chandra, Rohitash},
-        journal={arXiv preprint arXiv:2404.02180},
-        year={2024}
+      @article{NAGAR2024,
+      title = {Remote sensing framework for geological mapping via stacked autoencoders and clustering},
+      journal = {Advances in Space Research},
+      year = {2024},
+      issn = {0273-1177},
+      doi = {https://doi.org/10.1016/j.asr.2024.09.013},
+      url = {https://www.sciencedirect.com/science/article/pii/S0273117724009335},
+      author = {Sandeep Nagar and Ehsan Farahbakhsh and Joseph Awange and Rohitash Chandra},
+      keywords = {Remote sensing, Deep learning, Dimensionality reduction, Stacked autoencoders, -means clustering, Geological mapping},
       }
 
 
-`Nagar, S., Farahbakhsh, E., Awange, J., Chandra, R., Remote sensing framework for lithological mapping via stacked autoencoders and clustering [Under Review]`
+`Sandeep Nagar, Ehsan Farahbakhsh, Joseph Awange, Rohitash Chandra,
+Remote sensing framework for geological mapping via stacked autoencoders and clustering,
+Advances in Space Research,
+2024,
+,
+ISSN 0273-1177,
+https://doi.org/10.1016/j.asr.2024.09.013.`
